@@ -1,6 +1,3 @@
-CKA exam Preperation Simple Question
-
-
 ## Study Resources
 
 List recommended study resources, such as books, online courses, documentation, or any other materials that helped you in your preparation for the CKA exam.
@@ -13,7 +10,7 @@ List recommended study resources, such as books, online courses, documentation, 
 Include links to practice exams, exercises, or any other materials that provide hands-on experience with Kubernetes. This section is crucial for reinforcing your theoretical knowledge.
 
 - [Katacoda Kubernetes Labs](https://www.katacoda.com/courses/kubernetes)
-- [CKA Practice Questions](/CKA.md)
+- [CKA exam Preperation Simple Question](/CKA.md)
 
 
 Feel free to customize this template based on your specific needs and add relevant content from your existing file.
