@@ -14,6 +14,7 @@ Include links to practice exams, exercises, or any other materials that provide 
 - [Certified Kubernetes Administrator – Full Mock Exam Series](https://kodekloud.com/courses/ultimate-certified-kubernetes-administrator-cka-mock-exam) 
 - [CKA exam Preperation Simple Questions](/CKA.md)
 - [Kubernetes Sort Deffination](https://spectacled-layer-183.notion.site/Kubernetes-b9ea7068f0174e3c9b99949c30036fab?pvs=4)
+- [Killer Shell exam simulation - Solution walk-through](https://youtube.com/playlist?list=PLpbwBK0ptsswtM6ihzE6ABGpA-b0NaHXU&si=Ou3bsqXtc3y_zIPk)
 
 
 Feel free to customize this template based on your specific needs and add relevant content from your existing file.
