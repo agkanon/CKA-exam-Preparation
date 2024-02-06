@@ -15,11 +15,6 @@ Include links to practice exams, exercises, or any other materials that provide 
 - [Katacoda Kubernetes Labs](https://www.katacoda.com/courses/kubernetes)
 - [CKA Practice Questions](/CKA.md)
 
-## Contributing
 
-If you'd like to contribute to this repository by adding more resources or improving existing content, please follow the [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+Feel free to customize this template based on your specific needs and add relevant content from your existing file.
 
