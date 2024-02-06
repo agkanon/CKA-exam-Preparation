@@ -4,6 +4,7 @@ List recommended study resources, such as books, online courses, documentation, 
 
 - [Kubernetes Official Documentation](https://kubernetes.io/docs/)
 - [CKA Exam Curriculum](https://www.cncf.io/certification/cka/)
+- [CKA Certification Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/)
   
 ## Practice Materials
 
